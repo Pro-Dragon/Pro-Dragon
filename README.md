@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <!-- <p align="center"><img src="https://c.tenor.com/sM3bQRtawn4AAAAC/tenor.gif" width="600px"></p> -->
 <p align="center"><img src="header.gif" width="600px"></p> 
-<h1 align="center">Hello there 👋, <span style="font-family:monospace; font-size:1.5em">Dhanush Nagisetti</span> here </h1>
+<h1 align="center">Hello there 👋, <span style="font-family:monospace; font-size:1.5em">Dhanush(Dani 👽)</span> here </h1>
 <h3 align="center">Coder&nbsp; | &nbsp; Developer&nbsp; |&nbsp; B.Tech 3rd Year</h3>
 <br>
 <p align="center">
@@ -99,7 +99,7 @@
           alt="HackerRank"
         />
       </a>
-      <a href="https://www.codeforces.com/profile/dhanushnagisetti" target="_blank">
+      <a href="https://codeforces.com/profile/dhanushnagisetti" target="_blank">
         <img
           src="https://img.shields.io/badge/Codeforces-1a1c1b?style=for-the-badge&logo=Codeforces&logoColor=3B5998"
           alt="Codeforces"
