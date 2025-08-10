@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <!-- <p align="center"><img src="https://c.tenor.com/sM3bQRtawn4AAAAC/tenor.gif" width="600px"></p> -->
 <p align="center"><img src="header.gif" width="600px"></p> 
-<h1 align="center">Hello there 👋, <span style="font-family:monospace; font-size:1.5em">Dhanush(Dani 👽)</span> here </h1>
+<h1 align="center">Hello there 👋, <span style="font-family:monospace; font-size:1.5em">Dhanush</span> here </h1>
 <h3 align="center">Coder&nbsp; | &nbsp; Developer&nbsp; |&nbsp; B.Tech 3rd Year</h3>
 <br>
 <p align="center">
