@@ -13,7 +13,7 @@
 </p>
 
 <p align = "center">
-  <a href="https://drive.google.com/file/d/1ndgsXp6fjYBjPoNLtwl9ahjtLJ5Y8H0U/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1LtXzpSzk3nByA_JZodUSlo1D2bWjJXPO/view?usp=drive_link">
 <!--     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-informational?style=for-the-badge&color=02daed" alt="Resume"/> -->
     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-02daed" alt="Resume"/>
   </a>
