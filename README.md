@@ -1,96 +1,81 @@
-<!-- ===== HERO ===== -->
-<p align="center">
-  <img src="header.gif" width="720" alt="header"/>
-</p>
+# 🚀 Dhanush Nagisetti
 
-<h1 align="center">Dhanush Nagisetti</h1>
-<p align="center">
-  <strong>Full-Stack Developer • AIML Undergraduate • Problem Solver</strong>
-</p>
+> I don’t just write code.  
+> I debug my life using it.
 
-<p align="center">
-  <sub style="color:#94A3B8;">
-    Building scalable web applications and solving algorithmic problems with precision.
-  </sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=16
-    &pause=900
-    &color=22D3EE
-    &center=true
-    &vCenter=true
-    &width=520
-    &lines=React+%7C+Node.js+%7C+MongoDB;
-    Data+Structures+%26+Algorithms;
-    Clean+Code+%7C+System+Thinking;
-    Always+Learning" />
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1LtXzpSzk3nByA_JZodUSlo1D2bWjJXPO/view">
-    <img src="https://img.shields.io/badge/Resume-View-22D3EE?style=flat&logo=googledrive&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Pro-Dragon&color=22D3EE&style=flat"/>
-</p>
+🧠 AIML Undergrad | ⚔️ DSA Grinder | 🛠️ Full-Stack Developer in Progress
 
 ---
 
-## 🧩 About
+## 🧩 About Me
 
-I’m a **3rd-year B.Tech AIML student** with a strong interest in **full-stack development** and **problem solving**.  
-I enjoy turning ideas into **reliable, scalable applications** and refining my understanding of **algorithms and clean architecture**.
-
-- Focus: **React, Node.js, MongoDB**
-- Strengths: **DSA, logic building**
-- Mindset: *Build → Break → Improve*
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,tailwind,bootstrap,aws,git,github,vscode&theme=dark" />
-</p>
+- 🎓 2nd-year B.Tech student in Artificial Intelligence & Machine Learning
+- ☕ Turning coffee → logic → bugs → fixes daily
+- 🧠 Fundamentals > frameworks
+- 🧪 I break things to understand how they work
+- 🎯 Goal: land a solid tech role through skills, not shortcuts
 
 ---
 
-## 📈 GitHub Activity
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Dragon&show_icons=true&theme=transparent&title_color=22D3EE&icon_color=38BDF8&text_color=94A3B8&hide_border=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pro-Dragon&theme=transparent&ring=22D3EE&fire=38BDF8&currStreakLabel=94A3B8&hide_border=true" height="165"/>
-</p>
+### 🧑‍💻 Languages
+Java • C++ • JavaScript • Python
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Dragon&layout=compact&theme=transparent&title_color=22D3EE&text_color=94A3B8&hide_border=true"/>
-</p>
+### 🌐 Web & Backend
+HTML • CSS • Node.js • Express.js • MongoDB
 
----
-
-## 🔗 Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Dhanush_nagisetti/">
-    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat&logo=leetcode&logoColor=22D3EE"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/dhanushnatu/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0f172a?style=flat&logo=geeksforgeeks&logoColor=22D3EE"/>
-  </a>
-  <a href="https://www.codechef.com/users/dhanush_codex">
-    <img src="https://img.shields.io/badge/CodeChef-0f172a?style=flat&logo=codechef&logoColor=22D3EE"/>
-  </a>
-  <a href="https://codeforces.com/profile/dhanushnagisetti">
-    <img src="https://img.shields.io/badge/Codeforces-0f172a?style=flat&logo=codeforces&logoColor=22D3EE"/>
-  </a>
-</p>
+### 🛠️ Tools
+Git • GitHub • VS Code • Postman
 
 ---
 
-<p align="center">
-  <sub style="color:#64748B;">
-    Minimal • Intentional • Continuously Improving
-  </sub>
-</p>
+## 🧠 DSA & Competitive Programming
+
+- 🔥 Regular on LeetCode & CodeChef
+- 🥇 Targeting Gold badges on HackerRank
+- 😤 More time with DP & Graphs than social media
+- 🧩 Focused on patterns, edge cases, and clean logic
+
+---
+
+## 🛠️ Projects
+
+### 🏫 Campus Black Mirror
+A digital twin of every student — academics, analytics & insights
+
+### 🛠️ Hostel Complaint & Utility System
+Solving real hostel problems with real tech
+
+### 🎯 Career Planner with Skill Pathways & Alumni Map
+Structured career guidance for students
+
+### 🎮 Tic Tac Toe (C++ → JavaScript)
+Same logic, new language, deeper understanding
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pro-dragon&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pro-dragon&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Current Focus
+
+- Oracle Java Foundation Certification
+- Strengthening DSA fundamentals
+- Backend system design
+- Shipping meaningful projects
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/
+- 📧 Email: dhanushnagisetti@gmail.com
+- 🌐 Portfolio: Coming soon...
+
+---
+
+🧠 *Consistency beats motivation. Every single time.*
