@@ -74,7 +74,7 @@ Same logic, new language, deeper understanding
 
 - 💼 LinkedIn: https://www.linkedin.com/
 - 📧 Email: dhanushnagisetti@gmail.com
-- 🌐 Portfolio: dhanushh.me
+- 🌐 Portfolio: https://dhanushh.me
 
 ---
 
