@@ -1,100 +1,101 @@
+<!-- ===== HERO ===== -->
 <p align="center">
-  <img src="header.gif" width="700px" alt="Header"/>
+  <img src="header.gif" width="720" alt="header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhanush Nagisetti</h1>
-<h3 align="center">B.Tech AIML Student | Full-Stack Developer | Problem Solver</h3>
-
+<h1 align="center">Dhanush Nagisetti</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=02DAED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Strong+in+DSA+%26+Competitive+Programming;Building+Impactful+Projects" />
+  <strong>Full-Stack Developer • AIML Undergraduate • Problem Solver</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pro-Dragon&label=Profile+Views&color=02daed&style=flat" />
+  <sub>Building scalable web applications and solving algorithmic problems with precision.</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=02DAED&center=true&vCenter=true&width=520&lines=React+%7C+Node.js+%7C+MongoDB;Data+Structures+%26+Algorithms;Clean+Code+%7C+System+Thinking;Always+Learning" />
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1LtXzpSzk3nByA_JZodUSlo1D2bWjJXPO/view">
-    <img src="https://img.shields.io/badge/Resume-View-02daed?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Resume-View-02daed?style=flat"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Pro-Dragon&color=02daed&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧩 About
 
-- 🎓 **3rd Year B.Tech (AIML)** student  
-- 💻 Passionate about **Full Stack Development**  
-- ⚙️ Currently working with **React, Node.js, MongoDB**
-- 🧠 Strong interest in **DSA, system thinking, and clean code**
-- 🚀 Love building **real-world, problem-solving projects**
-- 📚 Always learning, always improving
+I’m a **3rd-year B.Tech AIML student** with a strong interest in **full-stack development** and **problem solving**.  
+I enjoy turning ideas into **reliable, scalable applications** and continuously refining my understanding of **algorithms, systems, and clean architecture**.
+
+- Focus: **React, Node.js, MongoDB**
+- Strengths: **DSA, logic building, consistency**
+- Mindset: *Build → Break → Improve*
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,bootstrap,tailwind,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,tailwind,bootstrap,aws,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Dragon&show_icons=true&theme=react" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pro-Dragon&theme=react" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Dragon&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pro-Dragon&theme=react&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Dragon&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Dragon&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 Problem Solving & Competitive Programming
+## 🧠 Problem Solving
 
-- **LeetCode** – Daily DSA practice  
-- **CodeChef** – Contest participation & rating improvement  
-- **GeeksforGeeks** – Topic-wise DSA mastery  
-- **HackerRank** – Certifications & structured problem solving  
-- **Codeforces** – Speed, accuracy, and logic under pressure  
+I actively practice **data structures and algorithms** across multiple platforms, focusing on:
 
-> 🧩 Focused on improving algorithmic thinking, edge-case handling, and optimization.
+- correctness  
+- edge cases  
+- time & space optimization  
+
+**Platforms**
+- LeetCode  
+- CodeChef  
+- GeeksforGeeks  
+- HackerRank  
+- Codeforces  
+
+Consistency > motivation.
 
 ---
 
-## 🔗 Coding Profiles
+## 🔗 Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Dhanush_nagisetti/">
-    <img src="https://img.shields.io/badge/LeetCode-1a1c1b?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-111?style=flat&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/dhanushnatu/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1a1c1b?style=for-the-badge&logo=geeksforgeeks&logoColor=2D8D45"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-111?style=flat&logo=geeksforgeeks&logoColor=2D8D45"/>
   </a>
   <a href="https://www.codechef.com/users/dhanush_codex">
-    <img src="https://img.shields.io/badge/CodeChef-1a1c1b?style=for-the-badge&logo=codechef"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/23P31A4251">
-    <img src="https://img.shields.io/badge/HackerRank-1a1c1b?style=for-the-badge&logo=hackerrank&logoColor=1c9a0f"/>
+    <img src="https://img.shields.io/badge/CodeChef-111?style=flat&logo=codechef"/>
   </a>
   <a href="https://codeforces.com/profile/dhanushnagisetti">
-    <img src="https://img.shields.io/badge/Codeforces-1a1c1b?style=for-the-badge&logo=codeforces&logoColor=3B5998"/>
+    <img src="https://img.shields.io/badge/Codeforces-111?style=flat&logo=codeforces&logoColor=3B5998"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-- ✍️ Handwriting: doctor level  
-- 💀 Coding mode: **absolute beast**
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanush-nagisetti-6328a5352/">
@@ -110,4 +111,6 @@
 
 ---
 
-⭐ *Thanks for visiting my profile. Let’s build something impactful.*
+<p align="center">
+  <sub>Minimal. Intentional. Continuously improving.</sub>
+</p>
