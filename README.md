@@ -72,7 +72,7 @@ Same logic, new language, deeper understanding
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/dhanush-nagisetti-6328a5352/
 - 📧 Email: dhanushnagisetti@gmail.com
 - 🌐 Portfolio: https://dhanushh.me
 
