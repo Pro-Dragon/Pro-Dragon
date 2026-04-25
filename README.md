@@ -9,7 +9,7 @@
 
 ## 🧩 About Me
 
-- 🎓 2nd-year B.Tech student in Artificial Intelligence & Machine Learning
+- 🎓 3rd-year B.Tech student in Artificial Intelligence & Machine Learning
 - ☕ Turning coffee → logic → bugs → fixes daily
 - 🧠 Fundamentals > frameworks
 - 🧪 I break things to understand how they work
