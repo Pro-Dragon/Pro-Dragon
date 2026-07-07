@@ -23,7 +23,7 @@ Full-Stack Developer • AI & Machine Learning Undergraduate • Competitive Pro
 </a>
 
 <a href="https://github.com/Pro-Dragon">
-<img src="https://img.shields.io/github/followers/Pro-Dragon?label=Followers&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Pro-Dragon&style=for-the-badge&color=181717"/>
 </a>
 
 </p>
