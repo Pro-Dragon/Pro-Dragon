@@ -44,9 +44,9 @@ I am a 3rd-year B.Tech (AI & ML) student at Aditya College, passionate about bui
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-r8h0igff5-dhanushnagisetti-7473s-projects.vercel.app/api?username=Pro-Dragon&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-eight-teal-56.vercel.app/api?username=Pro-Dragon&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-r8h0igff5-dhanushnagisetti-7473s-projects.vercel.app/api/top-langs/?username=Pro-Dragon&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-teal-56.vercel.app/api/top-langs/?username=Pro-Dragon&layout=compact&theme=tokyonight)
 
 ---
 
